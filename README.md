@@ -1,9 +1,9 @@
-﻿# 103. README / Catatan Praktikum
+# Praktikum 9 Grafika Komputer
 
-## Nama dan NRP
-
-- Mario Napitupulu — 5025241085
-- Nathanael Oliver Amadhika Yuswana — 5025241109
+| Nama | NRP | Kelas |
+| --- | --- | --- |
+| Mario Napitupulu | 5025241085 | B |
+| Nathanael Oliver Amadhika Yuswana | 5025241109 | B |
 
 ## Nama Asset
 
